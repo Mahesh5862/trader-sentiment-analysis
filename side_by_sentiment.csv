@@ -1,0 +1,11 @@
+classification,Side,trade_count,avg_pnl,win_rate
+Extreme Fear,BUY,10935,34.115,0.202
+Extreme Fear,SELL,10465,34.98,0.547
+Fear,BUY,30270,63.927,0.263
+Fear,SELL,31567,45.05,0.572
+Neutral,BUY,18969,29.227,0.24
+Neutral,SELL,18717,39.456,0.556
+Greed,BUY,24576,25.002,0.318
+Greed,SELL,25727,59.691,0.449
+Extreme Greed,BUY,17940,10.499,0.311
+Extreme Greed,SELL,22052,114.585,0.59

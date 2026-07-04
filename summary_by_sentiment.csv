@@ -1,0 +1,6 @@
+classification,trade_count,total_pnl,avg_pnl,median_pnl,win_rate,avg_trade_size_usd,unique_accounts
+Extreme Fear,21400,739110.248,34.538,0.0,0.371,5349.732,32
+Fear,61837,3357155.442,54.29,0.0,0.421,7816.11,32
+Neutral,37686,1292920.676,34.308,0.0,0.397,4782.733,31
+Greed,50303,2150129.273,42.744,0.0,0.385,5736.884,31
+Extreme Greed,39992,2715171.311,67.893,0.0,0.465,3112.252,30
